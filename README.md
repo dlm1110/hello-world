@@ -1,4 +1,4 @@
 # hello-world
-hello github!
-my name is liming.
-i am a student.
+Hello Github!
+My name is Liming.
+
